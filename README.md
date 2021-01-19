@@ -6,6 +6,7 @@
 - 🌱 I'm dedicating to development, focused in JavaScript, React, ReactNative and NodeJS but I'm open to other developement languages. I like to learn, I'm a teamplayer and hardworking.
 
 - 📫 How to reach me:
+
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -22,6 +23,8 @@
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 
+<br>
+  
 ### 🚀 Check My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffersondossantosaguiar&show_icons=true&theme=gotham" alt="jeffersondossantosaguiar" />
