@@ -15,7 +15,9 @@
   
 ### 🚀 Check My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffersondossantosaguiar&show_icons=true&theme=gotham" alt="jeffersondossantosaguiar" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffersondossantosaguiar&show_icons=true&theme=dracula" alt="jeffersondossantosaguiar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersondossantosaguiar&layout=compact&show_icons=true&theme=dracula" alt="jeffersondossantosaguiar" />
 
 <!--
 **jeffersondossantosaguiar/jeffersondossantosaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
