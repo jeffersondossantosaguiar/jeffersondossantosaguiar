@@ -1,8 +1,7 @@
 ### Hi there 👋. I'm Jefferson and this is my GitHub Profile
 
 - ❤ In love per Tecnology, Games and Pop culture. 
-- 🤔 I was worked for more ten years with computers maintenance an network infraestruture
-- 🔭 I'm currently work as a Full Stack Developer at BuildOne. 
+- 👾 I'm currently work as a Full Stack Developer at BuildOne. 
 - 🌱 I'm dedicating to development, focused in JavaScript, React, ReactNative and NodeJS but I'm open to others developement languages. I like to learn, I'm a teamplayer and hardworking.
 
 - 📫 How to reach me:
