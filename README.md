@@ -1,7 +1,7 @@
 ### Hi there 👋. I'm Jefferson and this is my GitHub Profile
 
 - ❤ In love per Tecnology, Games and Pop culture. 
-- 👾 I'm currently work as a Full Stack Developer at BuildOne. 
+- 👾 I'm currently work as a Software Engineer at LinkApi Solutions. 
 - 🌱 I'm dedicating to development, focused in JavaScript, React, ReactNative and NodeJS but I'm open to others developement languages. I like to learn, I'm a teamplayer and hardworking.
 
 - 📫 How to reach me:
