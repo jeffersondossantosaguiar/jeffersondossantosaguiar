@@ -1,7 +1,7 @@
 ### Hi there 👋. I'm Jefferson and this is my GitHub Profile
 
 - ❤ In love per Tecnology, Games and Pop culture. 
-- 👾 I'm currently work as a Software Engineer at LinkApi Solutions. 
+- 👾 I'm currently work as a backend developer at Laboratório de Inovação de Games e Apps - LIGA. 
 - 🌱 I'm dedicating to development, focused in JavaScript, React, ReactNative and NodeJS but I'm open to others developement languages. I like to learn, I'm a teamplayer and hardworking.
 
 - 📫 How to reach me:
