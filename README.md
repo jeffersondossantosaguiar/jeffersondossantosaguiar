@@ -2,7 +2,7 @@
 
 - ❤ In love per Tecnology, Games and Pop culture. 
 - 👾 I'm currently work as a backend developer at Laboratório de Inovação de Games e Apps - LIGA. 
-- 🌱 I'm dedicating to development, focused in JavaScript, React, ReactNative and NodeJS but I'm open to others developement languages. I like to learn, I'm a teamplayer and hardworking.
+- 🌱 I'm dedicating to development, focused in NodeJs, TypeScript, JavaScript,and React but I'm open to others developement languages.
 
 - 📫 How to reach me:
 
