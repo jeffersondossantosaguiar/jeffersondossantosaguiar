@@ -1,13 +1,13 @@
 ### Hi there 👋. I'm Jefferson and this is my GitHub Profile
 
-- ❤ In love per Tecnology, Games and Pop culture. 
-- 👾 I'm currently work as a backend developer at Laboratório de Inovação de Games e Apps - LIGA. 
-- 🌱 I'm dedicating to development, focused in NodeJs, TypeScript, JavaScript,and React but I'm open to others developement languages.
+- ❤ In love with technology, Games, and Pop culture. 
+- 👾 I'm currently working as a backend developer at LuizaLabs by Magazine Luiza one of the biggest retail companies in Brazil. 
+- 🌱 I'm dedicated to development, focused on NodeJs, TypeScript, JavaScript,and React but I am open to other development languages like Java, Rust, etc...
 
 - 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/jeffersonsantosaguiar/">
-  <img align="left" alt="Jefferson LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jefferson LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <br>
