@@ -1,34 +1,23 @@
-### Hi there 👋. I'm Jefferson and this is my GitHub Profile
+### Hi, I'm Jefferson 👋
 
-- ❤ In love with technology, Games, and Pop culture. 
-- 👾 I'm currently working as a backend developer at LuizaLabs by Magazine Luiza one of the biggest retail companies in Brazil. 
-- 🌱 I'm dedicated to development, focused on NodeJs, TypeScript, JavaScript,and React but I am open to other development languages like Java, Rust, etc...
+Senior Backend Engineer with 5+ years building systems at scale — currently at **LuizaLabs (Magazine Luiza)**, one of Brazil's largest e-commerce platforms, where I work on infrastructure handling **300M+ daily requests**.
 
-- 📫 How to reach me:
+My core stack is **Node.js / TypeScript**, but I'm actively expanding into **Rust** for systems programming.
 
-<a href="https://www.linkedin.com/in/jeffersonsantosaguiar/">
-  <img align="left" alt="Jefferson LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
+**What I'm focused on:**
+- 🦀 Systems programming in Rust — async runtimes, concurrency primitives, performance
+- 🔧 Distributed systems design — scalability, fault tolerance, observability
+- 🌍 Remote-first engineering roles at international companies
 
-<br>
-  
-### 🚀 Check My GitHub Stats
+---
+
+### 🚀 GitHub Stats
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jeffersondossantosaguiar&show_icons=true&theme=dracula" alt="jeffersondossantosaguiar" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersondossantosaguiar&layout=compact&show_icons=true&theme=dracula" alt="jeffersondossantosaguiar" />
+</p>
 
-<!--
-**jeffersondossantosaguiar/jeffersondossantosaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [LinkedIn](https://www.linkedin.com/in/jeffersonsantosaguiar/)
