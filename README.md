@@ -1,6 +1,6 @@
 ### Hi, I'm Jefferson 👋
 
-Senior Backend Engineer with 5+ years building systems at scale — currently at **LuizaLabs (Magazine Luiza)**, one of Brazil's largest e-commerce platforms, where I work on infrastructure handling **300M+ daily requests**.
+Backend Engineer with 5+ years building systems at scale — currently at **LuizaLabs (Magazine Luiza)**, one of Brazil's largest e-commerce platforms, where I work on infrastructure handling **300M+ daily requests**.
 
 My core stack is **Node.js / TypeScript**, but I'm actively expanding into **Rust** for systems programming.
 
